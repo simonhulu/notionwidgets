@@ -1,0 +1,106 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax" rowspan="18">五大基本概念</td>
+    <td class="tg-0lax" rowspan="2">主语</td>
+    <td class="tg-0lax">定义</td>
+    <td class="tg-0lax"><span style="font-style:normal;color:#F00">放在谓语动词之前的成分</span><span style="font-style:normal">就叫做主语</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">例句</td>
+    <td class="tg-0lax"><span style="font-style:normal">I love you</span><br><span style="font-style:normal;color:#F00">I</span><span style="font-style:normal">是主语</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="9">谓语</td>
+    <td class="tg-0lax">定义</td>
+    <td class="tg-0lax"><span style="font-style:normal">谓语就是</span><span style="font-style:normal;color:#F00">动词</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="4">谓语动词的类型</td>
+    <td class="tg-0lax">实意动词</td>
+    <td class="tg-0lax">love,run等实意动词</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">系动词</td>
+    <td class="tg-0lax">am,is,are,was,were</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">助动词</td>
+    <td class="tg-0lax">be,have,has,had,do,did</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">情态动词</td>
+    <td class="tg-0lax"><span style="font-weight:normal">can,may,must,should,would</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="4">例句</td>
+    <td class="tg-0lax">To see is to believe</td>
+    <td class="tg-0lax">To see is to believe</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">The flower smells great</td>
+    <td class="tg-0lax">smells是谓语动词</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Being able to love you is the happiest thing in this world</td>
+    <td class="tg-0lax">is是动词<br>Being able to love you是主语</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">I love you</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">宾语</td>
+    <td class="tg-0lax">定义</td>
+    <td class="tg-0lax"><span style="font-style:normal;color:#F00">放在实意动词之后的成分</span><span style="font-style:normal">就叫做宾语</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">例句</td>
+    <td class="tg-0lax">I am eatting carrot<br><br>carrot就是宾语</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">表语</td>
+    <td class="tg-0lax">定义</td>
+    <td class="tg-0lax"><span style="font-style:normal;color:#F00">放在系动词之后的成分</span><span style="font-style:normal">就叫做表语</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">例句</td>
+    <td class="tg-0lax">I am a rabbit<br>rabbit就是表语</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">宾补</td>
+    <td class="tg-0lax">定义</td>
+    <td class="tg-0lax"><span style="font-style:normal;color:#F00">补充说明宾语的成分</span><span style="font-style:normal">就叫做宾补</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">例句</td>
+    <td class="tg-0lax">I consider him a liar<br>a liar 是宾语补足语</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">辨别宾补还是宾宾的小技巧</td>
+    <td class="tg-0lax">如果宾语和宾语之后成分加be动词能够构成一个逻辑完整<br>的句子就是宾语补语<br>I consider him a liar<br>him是宾格<br>him + be + a liar 是一个完整的句子所以是宾补<br>对应的 I am eatting carrot<br></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</thead>
+</table>
